@@ -1,7 +1,16 @@
+<<<<<<< HEAD
 Usuarios Registrados en la Base de Datos
 ----------------------------------------
 Usuario: Joanna Martinez
 Contraseña: 1234	
 
 Usuario: Leonardo Molina	
+=======
+Usuarios Registrados en la Base de Datos
+----------------------------------------
+Usuario: Joanna Martinez
+Contraseña: 1234	
+
+Usuario: Leonardo Molina	
+>>>>>>> 3908ae2db42a7c72f73ca55c3f271a44dad1c8da
 Contraseña: 4321
