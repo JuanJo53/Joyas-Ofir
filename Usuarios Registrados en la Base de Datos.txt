@@ -1,0 +1,7 @@
+Usuarios Registrados en la Base de Datos
+----------------------------------------
+Usuario: Joanna Martinez
+Contraseña: 1234	
+
+Usuario: Leonardo Molina	
+Contraseña: 4321
